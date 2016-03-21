@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="lucene"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/lucene-analyzers-common-4.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-core-4.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/javax.mail.jar"/>
+	<classpathentry kind="lib" path="lib/mongo-2.10.1.jar"/>
+	<classpathentry kind="lib" path="lib/IKAnalyzer2013.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/hadoop"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/hbase"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
